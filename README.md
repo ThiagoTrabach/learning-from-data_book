@@ -2,7 +2,7 @@
 Exercises and problems solutions of the book and edx course Learning From Data by Mostafa and Ismail
 
 
-##edx
+## edx
 
 | Homework | status |
 |:--------:|:----:|
@@ -17,7 +17,7 @@ Exercises and problems solutions of the book and edx course Learning From Data b
 | 9 | not done|
 | 10 | not done|
 
-##book
+## book
 
 | Chapter | Exercises | Problems |
 |:-------:|:---------:|:--------:|
